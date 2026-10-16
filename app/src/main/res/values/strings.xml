@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Pertamaun5Button</string>
+    <string name="app_name">Pertamaun5</string>
+    <string name="submit">Hello, World!</string>
 </resources>
