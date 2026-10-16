@@ -12,4 +12,7 @@ fun FormDataDiri(){
     var textNama by remember { mutableStateOf("")}
     var textAlamat by remember { mutableStateOf("")}
     var textJK by remember { mutableStateOf("")}
+
+    // Variable-variable untuk menyimpan data yang di perolah dari komponn UI (sebagai simulasi database aja)
+    var nama by remember { mutableStateOf("")}
 }
