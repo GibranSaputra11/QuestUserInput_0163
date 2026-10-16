@@ -92,7 +92,7 @@ fun FormDataDiri(modifier: Modifier){
                 jenis = textJK
             }
         ) {
-            Text(text = "Submit")
+            Text(stringResource(id = R.string.submit))
         }
     }
 }
