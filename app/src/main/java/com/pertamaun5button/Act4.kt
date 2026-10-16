@@ -15,4 +15,5 @@ fun FormDataDiri(){
 
     // Variable-variable untuk menyimpan data yang di perolah dari komponn UI (sebagai simulasi database aja)
     var nama by remember { mutableStateOf("")}
+    var alamat by remember { mutableStateOf("")}
 }
